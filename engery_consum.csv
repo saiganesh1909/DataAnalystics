@@ -1,0 +1,375 @@
+Person ID,Gender,Age,Sleep Duration,height,weights,sleeping_calburn,Country,breakfast,breakfast_cal,remain_cal
+1,Male,27,6.1,154,76,404,India,Masala dosa with sambar,400.0,-4.0
+2,Male,28,6.2,161,72,411,France,Croissant with coffee,300.0,-111.0
+3,Male,28,6.2,152,64,375,United Kingdom,Full English breakfast,700.0,325.0
+4,Male,28,5.9,158,64,366,United Kingdom,Full English breakfast,700.0,334.0
+5,Male,28,5.9,165,61,370,France,Croissant with coffee,300.0,-70.0
+6,Male,28,5.9,158,60,357,United States,,,
+7,Male,29,6.3,163,63,396,United States,,,
+8,Male,29,7.8,172,71,534,Germany,Bread with sausage and cheese,550.0,16.0
+9,Male,29,7.8,158,75,519,France,Croissant with coffee,300.0,-219.0
+10,Male,29,7.8,157,56,455,Canada,Maple syrup on pancakes,520.0,65.0
+11,Male,29,6.1,153,60,359,France,Croissant with coffee,300.0,-59.0
+12,Male,29,7.8,170,62,501,Canada,Maple syrup on pancakes,520.0,19.0
+13,Male,29,6.1,174,67,411,Germany,Bread with sausage and cheese,550.0,139.0
+14,Male,29,6.0,169,75,416,India,Masala dosa with sambar,400.0,-16.0
+15,Male,29,6.0,169,65,391,India,Masala dosa with sambar,400.0,9.0
+16,Male,29,6.0,171,57,374,United States,,,
+17,Female,29,6.5,174,56,363,Japan,Miso soup with rice,200.0,-163.0
+18,Male,29,6.0,170,72,410,United Kingdom,Full English breakfast,700.0,290.0
+19,Female,29,6.5,166,76,403,Italy,Cappuccino with cornetto,250.0,-153.0
+20,Male,30,7.6,151,63,452,Germany,Bread with sausage and cheese,550.0,98.0
+21,Male,30,7.7,168,71,518,Canada,Maple syrup on pancakes,520.0,2.0
+22,Male,30,7.7,164,76,526,United States,,,
+23,Male,30,7.7,173,72,531,United Kingdom,Full English breakfast,700.0,169.0
+24,Male,30,7.7,167,70,512,China,Congee with pickled vegetables,220.0,-292.0
+25,Male,30,7.8,171,56,482,India,Masala dosa with sambar,400.0,-82.0
+26,Male,30,7.9,160,71,515,France,Croissant with coffee,300.0,-215.0
+27,Male,30,7.8,150,75,501,Japan,Miso soup with rice,200.0,-301.0
+28,Male,30,7.9,165,69,518,Italy,Cappuccino with cornetto,250.0,-268.0
+29,Male,30,7.9,156,79,533,Italy,Cappuccino with cornetto,250.0,-283.0
+30,Male,30,7.9,170,63,509,Brazil,Pão de queijo with coffee,300.0,-209.0
+31,Female,30,6.4,168,76,399,China,Congee with pickled vegetables,220.0,-179.0
+32,Female,30,6.4,151,72,360,United States,,,
+33,Female,31,7.9,156,75,463,France,Croissant with coffee,300.0,-163.0
+34,Male,31,6.1,150,64,362,India,Masala dosa with sambar,400.0,38.0
+35,Male,31,7.7,175,60,495,United States,,,
+36,Male,31,6.1,155,77,403,United Kingdom,Full English breakfast,700.0,297.0
+37,Male,31,6.1,166,65,390,Japan,Miso soup with rice,200.0,-190.0
+38,Male,31,7.6,175,58,482,United Kingdom,Full English breakfast,700.0,218.0
+39,Male,31,7.6,171,76,531,Canada,Maple syrup on pancakes,520.0,-11.0
+40,Male,31,7.6,153,70,476,France,Croissant with coffee,300.0,-176.0
+41,Male,31,7.7,166,59,474,United States,,,
+42,Male,31,7.7,167,74,524,France,Croissant with coffee,300.0,-224.0
+43,Male,31,7.7,158,69,490,Brazil,Pão de queijo with coffee,300.0,-190.0
+44,Male,31,7.8,163,61,480,India,Masala dosa with sambar,400.0,-80.0
+45,Male,31,7.7,159,71,498,France,Croissant with coffee,300.0,-198.0
+46,Male,31,7.8,172,64,508,Germany,Bread with sausage and cheese,550.0,42.0
+47,Male,31,7.7,174,78,551,Brazil,Pão de queijo with coffee,300.0,-251.0
+48,Male,31,7.8,175,58,495,Japan,Miso soup with rice,200.0,-295.0
+49,Male,31,7.7,154,59,449,Japan,Miso soup with rice,200.0,-249.0
+50,Male,31,7.7,152,75,497,Brazil,Pão de queijo with coffee,300.0,-197.0
+51,Male,32,7.5,159,79,508,Germany,Bread with sausage and cheese,550.0,42.0
+52,Male,32,7.5,153,62,444,United States,,,
+53,Male,32,6.0,160,55,348,Canada,Maple syrup on pancakes,520.0,172.0
+54,Male,32,7.6,171,73,520,United Kingdom,Full English breakfast,700.0,180.0
+55,Male,32,6.0,156,75,392,Italy,Cappuccino with cornetto,250.0,-142.0
+56,Male,32,6.0,150,67,363,Japan,Miso soup with rice,200.0,-163.0
+57,Male,32,7.7,175,72,532,United States,,,
+58,Male,32,6.0,174,67,400,United States,,,
+59,Male,32,6.0,155,61,355,United States,,,
+60,Male,32,7.7,163,78,527,United Kingdom,Full English breakfast,700.0,173.0
+61,Male,32,6.0,150,78,390,Canada,Maple syrup on pancakes,520.0,130.0
+62,Male,32,6.0,157,76,396,France,Croissant with coffee,300.0,-96.0
+63,Male,32,6.2,158,68,390,Japan,Miso soup with rice,200.0,-190.0
+64,Male,32,6.2,160,62,378,United Kingdom,Full English breakfast,700.0,322.0
+65,Male,32,6.2,155,55,352,Germany,Bread with sausage and cheese,550.0,198.0
+66,Male,32,6.2,168,66,401,China,Congee with pickled vegetables,220.0,-181.0
+67,Male,32,7.2,158,73,468,France,Croissant with coffee,300.0,-168.0
+68,Male,33,6.0,175,64,393,China,Congee with pickled vegetables,220.0,-173.0
+69,Female,33,6.2,151,75,353,Germany,Bread with sausage and cheese,550.0,197.0
+70,Female,33,6.2,160,71,357,Brazil,Pão de queijo with coffee,300.0,-57.0
+71,Male,33,6.1,162,62,374,France,Croissant with coffee,300.0,-74.0
+72,Male,33,6.1,152,79,401,Japan,Miso soup with rice,200.0,-201.0
+73,Male,33,6.1,171,61,386,United Kingdom,Full English breakfast,700.0,314.0
+74,Male,33,6.1,152,69,376,China,Congee with pickled vegetables,220.0,-156.0
+75,Male,33,6.0,160,66,375,United States,,,
+76,Male,33,6.0,168,55,360,Japan,Miso soup with rice,200.0,-160.0
+77,Male,33,6.0,170,59,373,Japan,Miso soup with rice,200.0,-173.0
+78,Male,33,6.0,151,62,350,China,Congee with pickled vegetables,220.0,-130.0
+79,Male,33,6.0,163,77,407,India,Masala dosa with sambar,400.0,-7.0
+80,Male,33,6.0,171,63,384,United States,,,
+81,Female,34,5.8,155,73,330,United Kingdom,Full English breakfast,700.0,370.0
+82,Female,34,5.8,161,63,315,China,Congee with pickled vegetables,220.0,-95.0
+83,Male,35,6.7,151,75,425,Japan,Miso soup with rice,200.0,-225.0
+84,Male,35,6.7,163,78,454,United Kingdom,Full English breakfast,700.0,246.0
+85,Male,35,7.5,161,78,505,United States,,,
+86,Female,35,7.2,166,66,408,United States,,,
+87,Male,35,7.2,158,75,470,France,Croissant with coffee,300.0,-170.0
+88,Male,35,7.2,167,63,451,France,Croissant with coffee,300.0,-151.0
+89,Male,35,7.3,175,58,457,China,Congee with pickled vegetables,220.0,-237.0
+90,Male,35,7.3,173,78,514,United States,,,
+91,Male,35,7.3,164,58,436,Italy,Cappuccino with cornetto,250.0,-186.0
+92,Male,35,7.3,163,71,474,Canada,Maple syrup on pancakes,520.0,46.0
+93,Male,35,7.5,157,59,437,Japan,Miso soup with rice,200.0,-237.0
+94,Male,35,7.4,165,59,447,Japan,Miso soup with rice,200.0,-247.0
+95,Female,36,7.2,172,79,457,France,Croissant with coffee,300.0,-157.0
+96,Female,36,7.1,167,74,426,France,Croissant with coffee,300.0,-126.0
+97,Female,36,7.2,152,72,398,Canada,Maple syrup on pancakes,520.0,122.0
+98,Female,36,7.1,169,59,386,United States,,,
+99,Female,36,7.1,166,62,389,Japan,Miso soup with rice,200.0,-189.0
+100,Female,36,7.1,154,69,387,Canada,Maple syrup on pancakes,520.0,133.0
+101,Female,36,7.2,153,57,355,India,Masala dosa with sambar,400.0,45.0
+102,Female,36,7.2,150,64,370,Italy,Cappuccino with cornetto,250.0,-120.0
+103,Female,36,7.2,170,72,432,Italy,Cappuccino with cornetto,250.0,-182.0
+104,Male,36,6.6,160,65,405,France,Croissant with coffee,300.0,-105.0
+105,Female,36,7.2,173,56,390,Brazil,Pão de queijo with coffee,300.0,-90.0
+106,Male,36,6.6,157,76,430,India,Masala dosa with sambar,400.0,-30.0
+107,Female,37,6.1,151,66,319,Germany,Bread with sausage and cheese,550.0,231.0
+108,Male,37,7.8,164,56,456,United States,,,
+109,Male,37,7.8,172,60,485,Germany,Bread with sausage and cheese,550.0,65.0
+110,Male,37,7.4,161,66,458,France,Croissant with coffee,300.0,-158.0
+111,Female,37,7.2,164,58,377,United Kingdom,Full English breakfast,700.0,323.0
+112,Male,37,7.4,172,69,488,India,Masala dosa with sambar,400.0,-88.0
+113,Female,37,7.2,174,60,402,Germany,Bread with sausage and cheese,550.0,148.0
+114,Male,37,7.4,157,68,456,United Kingdom,Full English breakfast,700.0,244.0
+115,Female,37,7.2,163,76,429,United Kingdom,Full English breakfast,700.0,271.0
+116,Female,37,7.2,162,70,409,United Kingdom,Full English breakfast,700.0,291.0
+117,Female,37,7.2,155,71,399,Italy,Cappuccino with cornetto,250.0,-149.0
+118,Female,37,7.2,157,79,427,Brazil,Pão de queijo with coffee,300.0,-127.0
+119,Female,37,7.2,160,65,391,Brazil,Pão de queijo with coffee,300.0,-91.0
+120,Female,37,7.2,161,71,411,Brazil,Pão de queijo with coffee,300.0,-111.0
+121,Female,37,7.2,150,70,387,India,Masala dosa with sambar,400.0,13.0
+122,Female,37,7.2,154,77,415,France,Croissant with coffee,300.0,-115.0
+123,Female,37,7.2,164,60,383,India,Masala dosa with sambar,400.0,17.0
+124,Female,37,7.2,166,57,378,United States,,,
+125,Female,37,7.2,159,70,404,France,Croissant with coffee,300.0,-104.0
+126,Female,37,7.5,173,71,451,Japan,Miso soup with rice,200.0,-251.0
+127,Male,38,7.3,156,57,413,Germany,Bread with sausage and cheese,550.0,137.0
+128,Female,38,7.1,152,57,345,Canada,Maple syrup on pancakes,520.0,175.0
+129,Male,38,7.3,162,72,470,India,Masala dosa with sambar,400.0,-70.0
+130,Male,38,7.3,169,60,447,Canada,Maple syrup on pancakes,520.0,73.0
+131,Female,38,7.1,161,72,406,Canada,Maple syrup on pancakes,520.0,114.0
+132,Male,38,7.3,151,70,443,United Kingdom,Full English breakfast,700.0,257.0
+133,Male,38,7.3,163,74,478,Canada,Maple syrup on pancakes,520.0,42.0
+134,Female,38,7.1,166,70,410,Italy,Cappuccino with cornetto,250.0,-160.0
+135,Male,38,7.3,165,65,455,United Kingdom,Full English breakfast,700.0,245.0
+136,Male,38,7.3,164,61,441,United Kingdom,Full English breakfast,700.0,259.0
+137,Female,38,7.1,155,67,380,Canada,Maple syrup on pancakes,520.0,140.0
+138,Male,38,7.1,171,68,462,Italy,Cappuccino with cornetto,250.0,-212.0
+139,Female,38,7.1,167,64,394,China,Congee with pickled vegetables,220.0,-174.0
+140,Male,38,7.1,170,57,428,United Kingdom,Full English breakfast,700.0,272.0
+141,Female,38,7.1,169,68,409,Italy,Cappuccino with cornetto,250.0,-159.0
+142,Male,38,7.1,168,57,424,United States,,,
+143,Female,38,7.1,152,66,372,China,Congee with pickled vegetables,220.0,-152.0
+144,Female,38,7.1,151,67,373,Brazil,Pão de queijo with coffee,300.0,-73.0
+145,Male,38,7.1,155,72,444,Brazil,Pão de queijo with coffee,300.0,-144.0
+146,Female,38,7.4,170,73,444,Brazil,Pão de queijo with coffee,300.0,-144.0
+147,Male,39,7.2,152,65,423,Germany,Bread with sausage and cheese,550.0,127.0
+148,Male,39,6.5,169,77,443,Canada,Maple syrup on pancakes,520.0,77.0
+149,Female,39,6.9,166,79,423,Italy,Cappuccino with cornetto,250.0,-173.0
+150,Female,39,8.0,160,76,468,Brazil,Pão de queijo with coffee,300.0,-168.0
+151,Female,39,8.0,173,65,458,United States,,,
+152,Male,39,7.2,167,79,493,Germany,Bread with sausage and cheese,550.0,57.0
+153,Male,39,7.2,153,77,460,Germany,Bread with sausage and cheese,550.0,90.0
+154,Male,39,7.2,160,67,444,Italy,Cappuccino with cornetto,250.0,-194.0
+155,Male,39,7.2,154,71,444,Canada,Maple syrup on pancakes,520.0,76.0
+156,Male,39,7.2,167,69,463,Japan,Miso soup with rice,200.0,-263.0
+157,Male,39,7.2,162,69,453,Germany,Bread with sausage and cheese,550.0,97.0
+158,Male,39,7.2,156,61,418,United States,,,
+159,Male,39,7.2,156,72,451,India,Masala dosa with sambar,400.0,-51.0
+160,Male,39,7.2,159,57,412,Canada,Maple syrup on pancakes,520.0,108.0
+161,Male,39,7.2,160,60,423,United States,,,
+162,Female,40,7.2,157,63,375,United States,,,
+163,Female,40,7.2,155,62,368,Italy,Cappuccino with cornetto,250.0,-118.0
+164,Male,40,7.9,156,60,454,China,Congee with pickled vegetables,220.0,-234.0
+165,Male,40,7.9,158,76,511,Italy,Cappuccino with cornetto,250.0,-261.0
+166,Male,41,7.6,164,73,492,United Kingdom,Full English breakfast,700.0,208.0
+167,Male,41,7.3,175,72,490,India,Masala dosa with sambar,400.0,-90.0
+168,Male,41,7.1,165,62,429,France,Croissant with coffee,300.0,-129.0
+169,Male,41,7.1,163,58,413,United States,,,
+170,Male,41,7.7,169,75,515,United States,,,
+171,Male,41,7.7,151,79,492,Italy,Cappuccino with cornetto,250.0,-242.0
+172,Male,41,7.7,172,71,508,France,Croissant with coffee,300.0,-208.0
+173,Male,41,7.7,157,70,475,United States,,,
+174,Male,41,7.7,154,72,475,Italy,Cappuccino with cornetto,250.0,-225.0
+175,Male,41,7.6,163,61,452,United Kingdom,Full English breakfast,700.0,248.0
+176,Male,41,7.6,158,72,477,Germany,Bread with sausage and cheese,550.0,73.0
+177,Male,41,7.6,168,73,500,Germany,Bread with sausage and cheese,550.0,50.0
+178,Male,42,6.5,164,58,379,Japan,Miso soup with rice,200.0,-179.0
+179,Male,42,7.8,170,67,496,United Kingdom,Full English breakfast,700.0,204.0
+180,Male,42,7.8,162,75,506,United States,,,
+181,Male,42,7.8,150,71,468,Japan,Miso soup with rice,200.0,-268.0
+182,Male,42,7.8,173,67,502,France,Croissant with coffee,300.0,-202.0
+183,Male,42,7.8,155,69,472,Italy,Cappuccino with cornetto,250.0,-222.0
+184,Male,42,7.8,165,76,515,Italy,Cappuccino with cornetto,250.0,-265.0
+185,Female,42,6.8,162,63,360,France,Croissant with coffee,300.0,-60.0
+186,Female,42,6.8,157,73,379,Japan,Miso soup with rice,200.0,-179.0
+187,Female,43,6.7,159,76,384,China,Congee with pickled vegetables,220.0,-164.0
+188,Male,43,6.3,174,72,419,United Kingdom,Full English breakfast,700.0,281.0
+189,Female,43,6.7,151,60,325,China,Congee with pickled vegetables,220.0,-105.0
+190,Male,43,6.5,168,63,398,France,Croissant with coffee,300.0,-98.0
+191,Female,43,6.7,163,73,383,China,Congee with pickled vegetables,220.0,-163.0
+192,Male,43,6.4,157,63,373,Canada,Maple syrup on pancakes,520.0,147.0
+193,Male,43,6.5,154,77,412,United Kingdom,Full English breakfast,700.0,288.0
+194,Male,43,6.5,161,78,426,Brazil,Pão de queijo with coffee,300.0,-126.0
+195,Male,43,6.5,151,74,399,United States,,,
+196,Male,43,6.5,155,68,389,India,Masala dosa with sambar,400.0,11.0
+197,Male,43,6.5,162,73,415,China,Congee with pickled vegetables,220.0,-195.0
+198,Male,43,6.5,152,59,360,Canada,Maple syrup on pancakes,520.0,160.0
+199,Male,43,6.5,167,63,396,United States,,,
+200,Male,43,6.5,157,71,401,Germany,Bread with sausage and cheese,550.0,149.0
+201,Male,43,6.5,166,68,408,Germany,Bread with sausage and cheese,550.0,142.0
+202,Male,43,7.8,162,77,511,India,Masala dosa with sambar,400.0,-111.0
+203,Male,43,7.8,160,73,494,China,Congee with pickled vegetables,220.0,-274.0
+204,Male,43,6.9,160,75,442,Japan,Miso soup with rice,200.0,-242.0
+205,Male,43,7.6,151,78,479,Canada,Maple syrup on pancakes,520.0,41.0
+206,Male,43,7.7,171,61,471,India,Masala dosa with sambar,400.0,-71.0
+207,Male,43,7.7,175,76,527,United Kingdom,Full English breakfast,700.0,173.0
+208,Male,43,7.7,152,62,436,China,Congee with pickled vegetables,220.0,-216.0
+209,Male,43,7.7,164,61,457,Canada,Maple syrup on pancakes,520.0,63.0
+210,Male,43,7.8,155,72,480,Brazil,Pão de queijo with coffee,300.0,-180.0
+211,Male,43,7.7,162,60,449,France,Croissant with coffee,300.0,-149.0
+212,Male,43,7.8,150,78,489,United Kingdom,Full English breakfast,700.0,211.0
+213,Male,43,7.8,168,66,487,Italy,Cappuccino with cornetto,250.0,-237.0
+214,Male,43,7.8,150,71,467,Canada,Maple syrup on pancakes,520.0,53.0
+215,Male,43,7.8,165,66,481,Germany,Bread with sausage and cheese,550.0,69.0
+216,Male,43,7.8,170,72,511,France,Croissant with coffee,300.0,-211.0
+217,Male,43,7.8,153,68,463,China,Congee with pickled vegetables,220.0,-243.0
+218,Male,43,7.8,151,61,436,United States,,,
+219,Male,43,7.8,160,79,513,Germany,Bread with sausage and cheese,550.0,37.0
+220,Male,43,6.5,173,63,406,Germany,Bread with sausage and cheese,550.0,144.0
+221,Female,44,6.6,160,68,357,Brazil,Pão de queijo with coffee,300.0,-57.0
+222,Male,44,6.4,154,73,394,Brazil,Pão de queijo with coffee,300.0,-94.0
+223,Male,44,6.3,165,79,421,India,Masala dosa with sambar,400.0,-21.0
+224,Male,44,6.4,173,70,417,India,Masala dosa with sambar,400.0,-17.0
+225,Female,44,6.6,167,58,341,United Kingdom,Full English breakfast,700.0,359.0
+226,Male,44,6.3,166,59,370,Italy,Cappuccino with cornetto,250.0,-120.0
+227,Female,44,6.6,160,76,379,Canada,Maple syrup on pancakes,520.0,141.0
+228,Male,44,6.3,150,68,368,Italy,Cappuccino with cornetto,250.0,-118.0
+229,Female,44,6.6,168,71,379,United Kingdom,Full English breakfast,700.0,321.0
+230,Male,44,6.3,162,60,366,India,Masala dosa with sambar,400.0,34.0
+231,Female,44,6.6,174,57,351,United Kingdom,Full English breakfast,700.0,349.0
+232,Male,44,6.3,173,74,421,Germany,Bread with sausage and cheese,550.0,129.0
+233,Female,44,6.6,150,62,323,Italy,Cappuccino with cornetto,250.0,-73.0
+234,Male,44,6.3,166,79,423,Canada,Maple syrup on pancakes,520.0,97.0
+235,Female,44,6.6,151,71,350,Japan,Miso soup with rice,200.0,-150.0
+236,Male,44,6.3,161,70,391,United States,,,
+237,Male,44,6.4,169,68,405,Italy,Cappuccino with cornetto,250.0,-155.0
+238,Female,44,6.5,153,77,364,India,Masala dosa with sambar,400.0,36.0
+239,Male,44,6.3,162,61,369,China,Congee with pickled vegetables,220.0,-149.0
+240,Male,44,6.4,168,63,390,Japan,Miso soup with rice,200.0,-190.0
+241,Female,44,6.5,169,78,394,Brazil,Pão de queijo with coffee,300.0,-94.0
+242,Male,44,6.3,152,63,358,Canada,Maple syrup on pancakes,520.0,162.0
+243,Male,44,6.4,155,76,403,United States,,,
+244,Female,44,6.5,153,78,367,Canada,Maple syrup on pancakes,520.0,153.0
+245,Male,44,6.3,158,58,355,Canada,Maple syrup on pancakes,520.0,165.0
+246,Female,44,6.5,172,56,339,France,Croissant with coffee,300.0,-39.0
+247,Male,44,6.3,152,65,363,Japan,Miso soup with rice,200.0,-163.0
+248,Male,44,6.8,161,55,380,Italy,Cappuccino with cornetto,250.0,-130.0
+249,Male,44,6.4,166,72,411,India,Masala dosa with sambar,400.0,-11.0
+250,Male,44,6.5,153,67,382,France,Croissant with coffee,300.0,-82.0
+251,Female,45,6.8,152,78,380,Germany,Bread with sausage and cheese,550.0,170.0
+252,Female,45,6.8,173,65,381,China,Congee with pickled vegetables,220.0,-161.0
+253,Female,45,6.5,169,58,338,France,Croissant with coffee,300.0,-38.0
+254,Female,45,6.5,164,75,376,United States,,,
+255,Female,45,6.5,161,70,357,Brazil,Pão de queijo with coffee,300.0,-57.0
+256,Female,45,6.5,175,58,348,Italy,Cappuccino with cornetto,250.0,-98.0
+257,Female,45,6.6,150,57,308,Italy,Cappuccino with cornetto,250.0,-58.0
+258,Female,45,6.6,161,60,335,Brazil,Pão de queijo with coffee,300.0,-35.0
+259,Female,45,6.6,162,57,329,Italy,Cappuccino with cornetto,250.0,-79.0
+260,Female,45,6.6,163,69,363,United Kingdom,Full English breakfast,700.0,337.0
+261,Female,45,6.6,167,58,340,United Kingdom,Full English breakfast,700.0,360.0
+262,Female,45,6.6,154,70,351,India,Masala dosa with sambar,400.0,49.0
+263,Female,45,6.6,159,74,370,France,Croissant with coffee,300.0,-70.0
+264,Female,45,6.9,158,74,385,Canada,Maple syrup on pancakes,520.0,135.0
+265,Male,48,7.3,162,65,434,Japan,Miso soup with rice,200.0,-234.0
+266,Female,48,5.9,151,55,268,India,Masala dosa with sambar,400.0,132.0
+267,Male,48,7.3,157,64,421,United Kingdom,Full English breakfast,700.0,279.0
+268,Female,49,6.2,174,71,359,France,Croissant with coffee,300.0,-59.0
+269,Female,49,6.0,155,78,335,France,Croissant with coffee,300.0,-35.0
+270,Female,49,6.1,164,72,340,Brazil,Pão de queijo with coffee,300.0,-40.0
+271,Female,49,6.1,172,62,327,Brazil,Pão de queijo with coffee,300.0,-27.0
+272,Female,49,6.1,171,76,361,India,Masala dosa with sambar,400.0,39.0
+273,Female,49,6.1,151,61,291,India,Masala dosa with sambar,400.0,109.0
+274,Female,49,6.2,150,73,325,United Kingdom,Full English breakfast,700.0,375.0
+275,Female,49,6.2,158,79,354,India,Masala dosa with sambar,400.0,46.0
+276,Female,49,6.2,162,60,311,France,Croissant with coffee,300.0,-11.0
+277,Male,49,8.1,170,68,507,Germany,Bread with sausage and cheese,550.0,43.0
+278,Male,49,8.1,150,57,427,India,Masala dosa with sambar,400.0,-27.0
+279,Female,50,6.1,155,59,291,China,Congee with pickled vegetables,220.0,-71.0
+280,Female,50,8.3,158,77,465,India,Masala dosa with sambar,400.0,-65.0
+281,Female,50,6.0,159,69,318,India,Masala dosa with sambar,400.0,82.0
+282,Female,50,6.1,173,79,371,China,Congee with pickled vegetables,220.0,-151.0
+283,Female,50,6.0,170,75,350,China,Congee with pickled vegetables,220.0,-130.0
+284,Female,50,6.0,163,57,294,Canada,Maple syrup on pancakes,520.0,226.0
+285,Female,50,6.0,173,66,332,India,Masala dosa with sambar,400.0,68.0
+286,Female,50,6.0,158,74,329,China,Congee with pickled vegetables,220.0,-109.0
+287,Female,50,6.0,154,79,335,Brazil,Pão de queijo with coffee,300.0,-35.0
+288,Female,50,6.0,169,69,333,Italy,Cappuccino with cornetto,250.0,-83.0
+289,Female,50,6.0,153,63,293,Canada,Maple syrup on pancakes,520.0,227.0
+290,Female,50,6.1,158,70,324,United Kingdom,Full English breakfast,700.0,376.0
+291,Female,50,6.0,173,66,332,Canada,Maple syrup on pancakes,520.0,188.0
+292,Female,50,6.1,170,66,333,United Kingdom,Full English breakfast,700.0,367.0
+293,Female,50,6.1,169,79,364,Germany,Bread with sausage and cheese,550.0,186.0
+294,Female,50,6.0,163,58,296,Canada,Maple syrup on pancakes,520.0,224.0
+295,Female,50,6.1,157,55,284,Germany,Bread with sausage and cheese,550.0,266.0
+296,Female,50,6.0,161,65,311,Canada,Maple syrup on pancakes,520.0,209.0
+297,Female,50,6.1,169,63,324,Italy,Cappuccino with cornetto,250.0,-74.0
+298,Female,50,6.1,167,58,308,China,Congee with pickled vegetables,220.0,-88.0
+299,Female,51,8.5,173,64,462,Japan,Miso soup with rice,200.0,-262.0
+300,Female,51,8.5,159,72,459,Italy,Cappuccino with cornetto,250.0,-209.0
+301,Female,51,8.5,170,73,487,Japan,Miso soup with rice,200.0,-287.0
+302,Female,51,8.5,162,57,413,Italy,Cappuccino with cornetto,250.0,-163.0
+303,Female,51,7.1,172,55,357,United States,,,
+304,Female,51,6.0,153,55,272,Canada,Maple syrup on pancakes,520.0,248.0
+305,Female,51,6.1,157,73,329,India,Masala dosa with sambar,400.0,71.0
+306,Female,51,6.1,169,61,317,United States,,,
+307,Female,52,6.5,168,63,340,United Kingdom,Full English breakfast,700.0,360.0
+308,Female,52,6.5,150,59,299,United States,,,
+309,Female,52,6.6,160,75,365,Brazil,Pão de queijo with coffee,300.0,-65.0
+310,Female,52,6.6,152,72,343,United States,,,
+311,Female,52,6.6,169,73,375,Brazil,Pão de queijo with coffee,300.0,-75.0
+312,Female,52,6.6,154,57,305,China,Congee with pickled vegetables,220.0,-85.0
+313,Female,52,8.4,168,69,461,France,Croissant with coffee,300.0,-161.0
+314,Female,52,8.4,150,77,450,Brazil,Pão de queijo with coffee,300.0,-150.0
+315,Female,52,8.4,152,63,405,Canada,Maple syrup on pancakes,520.0,115.0
+316,Female,53,8.3,154,64,406,Italy,Cappuccino with cornetto,250.0,-156.0
+317,Female,53,8.5,154,64,416,India,Masala dosa with sambar,400.0,-16.0
+318,Female,53,8.5,163,59,418,United Kingdom,Full English breakfast,700.0,282.0
+319,Female,53,8.4,169,61,434,United Kingdom,Full English breakfast,700.0,266.0
+320,Female,53,8.4,155,68,427,Japan,Miso soup with rice,200.0,-227.0
+321,Female,53,8.5,174,69,478,Japan,Miso soup with rice,200.0,-278.0
+322,Female,53,8.4,156,59,398,India,Masala dosa with sambar,400.0,2.0
+323,Female,53,8.4,174,76,497,France,Croissant with coffee,300.0,-197.0
+324,Female,53,8.5,156,75,460,Japan,Miso soup with rice,200.0,-260.0
+325,Female,53,8.3,171,56,415,Japan,Miso soup with rice,200.0,-215.0
+326,Female,53,8.5,167,61,434,Italy,Cappuccino with cornetto,250.0,-184.0
+327,Female,53,8.3,158,71,439,India,Masala dosa with sambar,400.0,-39.0
+328,Female,53,8.5,175,61,452,United States,,,
+329,Female,53,8.3,151,73,431,United Kingdom,Full English breakfast,700.0,269.0
+330,Female,53,8.5,171,59,436,France,Croissant with coffee,300.0,-136.0
+331,Female,53,8.5,152,77,458,United States,,,
+332,Female,53,8.4,156,68,430,India,Masala dosa with sambar,400.0,-30.0
+333,Female,54,8.4,174,56,425,Japan,Miso soup with rice,200.0,-225.0
+334,Female,54,8.4,157,64,416,France,Croissant with coffee,300.0,-116.0
+335,Female,54,8.4,156,75,452,Canada,Maple syrup on pancakes,520.0,68.0
+336,Female,54,8.4,172,77,494,Italy,Cappuccino with cornetto,250.0,-244.0
+337,Female,54,8.4,166,79,488,United Kingdom,Full English breakfast,700.0,212.0
+338,Female,54,8.4,158,71,443,Germany,Bread with sausage and cheese,550.0,107.0
+339,Female,54,8.5,167,68,457,Canada,Maple syrup on pancakes,520.0,63.0
+340,Female,55,8.1,163,74,446,India,Masala dosa with sambar,400.0,-46.0
+341,Female,55,8.1,163,69,429,India,Masala dosa with sambar,400.0,-29.0
+342,Female,56,8.2,157,67,413,Japan,Miso soup with rice,200.0,-213.0
+343,Female,56,8.2,174,75,477,Brazil,Pão de queijo with coffee,300.0,-177.0
+344,Female,57,8.1,151,62,377,Italy,Cappuccino with cornetto,250.0,-127.0
+345,Female,57,8.2,159,70,426,Canada,Maple syrup on pancakes,520.0,94.0
+346,Female,57,8.2,154,66,401,India,Masala dosa with sambar,400.0,-1.0
+347,Female,57,8.2,160,76,448,China,Congee with pickled vegetables,220.0,-228.0
+348,Female,57,8.2,154,56,367,Italy,Cappuccino with cornetto,250.0,-117.0
+349,Female,57,8.2,165,77,463,Japan,Miso soup with rice,200.0,-263.0
+350,Female,57,8.1,155,66,399,United States,,,
+351,Female,57,8.1,161,65,408,India,Masala dosa with sambar,400.0,-8.0
+352,Female,57,8.1,156,79,445,United States,,,
+353,Female,58,8.0,154,61,373,China,Congee with pickled vegetables,220.0,-153.0
+354,Female,58,8.0,162,58,380,India,Masala dosa with sambar,400.0,20.0
+355,Female,58,8.0,165,71,430,France,Croissant with coffee,300.0,-130.0
+356,Female,58,8.0,167,74,444,Brazil,Pão de queijo with coffee,300.0,-144.0
+357,Female,58,8.0,158,57,368,India,Masala dosa with sambar,400.0,32.0
+358,Female,58,8.0,159,55,364,United States,,,
+359,Female,59,8.0,175,77,469,United Kingdom,Full English breakfast,700.0,231.0
+360,Female,59,8.1,155,76,429,Italy,Cappuccino with cornetto,250.0,-179.0
+361,Female,59,8.2,156,63,392,Brazil,Pão de queijo with coffee,300.0,-92.0
+362,Female,59,8.2,175,63,433,Italy,Cappuccino with cornetto,250.0,-183.0
+363,Female,59,8.2,169,60,410,Canada,Maple syrup on pancakes,520.0,110.0
+364,Female,59,8.2,175,65,439,Brazil,Pão de queijo with coffee,300.0,-139.0
+365,Female,59,8.0,157,62,381,India,Masala dosa with sambar,400.0,19.0
+366,Female,59,8.0,171,59,400,India,Masala dosa with sambar,400.0,0.0
+367,Female,59,8.1,174,66,435,China,Congee with pickled vegetables,220.0,-215.0
+368,Female,59,8.0,167,69,425,United States,,,
+369,Female,59,8.1,155,69,405,Brazil,Pão de queijo with coffee,300.0,-105.0
+370,Female,59,8.1,154,70,407,Japan,Miso soup with rice,200.0,-207.0
+371,Female,59,8.0,153,78,426,Italy,Cappuccino with cornetto,250.0,-176.0
+372,Female,59,8.1,174,56,402,Brazil,Pão de queijo with coffee,300.0,-102.0
+373,Female,59,8.1,168,64,416,United Kingdom,Full English breakfast,700.0,284.0
+374,Female,59,8.1,174,73,459,Italy,Cappuccino with cornetto,250.0,-209.0
